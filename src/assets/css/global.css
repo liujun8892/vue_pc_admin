@@ -1,0 +1,33 @@
+html,
+body,
+#app,
+.login_container {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-width: 1366px;
+}
+
+.login_container {
+  background-color: #2b4b6b;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+
+.el-cascader-panel {
+  height: 300px !important;
+}
+
+.el-steps {
+  margin: 20px 0;
+}
+
+.el-step__title {
+  font-size: 14px;
+}
+
+.ql-editor {
+  min-height: 500px;
+}
